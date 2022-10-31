@@ -1,0 +1,38 @@
+.container {
+	width: 800px;
+	box-sizing: border-box;
+	background-color: #aeaeae;
+	margin: auto;
+}
+
+main {
+	background-color: black;
+	color: white;
+	width: 500px;
+	float: left;
+}
+
+main p {
+	text-align: justify;
+	padding: 5px;
+}
+
+aside {
+	background-color: pink;
+	width: 300px;
+	float: right;
+}
+aside p {
+	text-align: justify;
+	padding: 5px;
+}
+footer {
+	background-color: green;
+	clear: both;
+
+}
+footer p  {
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
